@@ -1,0 +1,5 @@
+[
+  { "key": 1, "text": "Text number one", "checked": true },
+  { "key": 2, "text": "Text number two", "checked": true },
+  { "key": 3, "text": "Text number three", "checked": true }
+]
